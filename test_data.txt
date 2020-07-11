@@ -1,0 +1,4 @@
+            "Pontiac","Firebird",1967,"cn_010_kr",0x88C14C69F0906dE2e48182920ee1124029F597C6
+            "Ford","Thunderbird",1955,"cn_015_tb",0x88C14C69F0906dE2e48182920ee1124029F597C6
+            "Chevrolet","Impala",1958,"cn_018_imp",0x88C14C69F0906dE2e48182920ee1124029F597C6
+            "Aston Martin","DB5",1964,"cn_007_GoldFinger",0x88C14C69F0906dE2e48182920ee1124029F597C6
